@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../3818
+  - cmake ../381808-1_KrasilnikovAV_Lab
   - make -j
   - ls
   - ./Test
